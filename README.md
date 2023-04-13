@@ -1,4 +1,4 @@
-# audio-encryption-and-decryption-
+# Audio-encryption-and-decryption
 
 This is a project to encrypt and decrpyt audio files for secure transmisssion
 
