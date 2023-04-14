@@ -4,11 +4,14 @@ This is a project to encrypt and decrpyt audio files for secure transmisssion
 
 Supported File Format --> .wav
 
+
+    
 --Packages needed--
-    ->streamlit
-    ->pycryptdome
-    ->python
-    ->seccure
+1. streamlit
+2. pycryptdome
+3. python
+4. seccure
+
 
 
 To use the Audio Encryption and Decryption just download the executable ‘GUI.py’from the repository inside the "GUI" folder 
@@ -58,9 +61,9 @@ To use the Audio Encryption and Decryption just download the executable ‘GUI.p
 
 
 --Environment Compatibility--
-1.Hardware: minimum of 2 GB of RAM and 50 MB of free disk space
-2.Operating System: Windows 7, 8, and 10 and above
-3.Software: System admin access to view file log in the terminal.
-4.Network: No internet connection required
-5.Devices: The tool can be run on PCs (desktops and laptops).
-6.Mobile: Not compatible
+1. Hardware: minimum of 2 GB of RAM and 50 MB of free disk space
+2. Operating System: Windows 7, 8, and 10 and above
+3. Software: System admin access to view file log in the terminal.
+4. Network: No internet connection required
+5. Devices: The tool can be run on PCs (desktops and laptops).
+6. Mobile: Not compatible
