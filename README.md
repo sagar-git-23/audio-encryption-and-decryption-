@@ -5,10 +5,10 @@ This is a project to encrypt and decrpyt audio files for secure transmisssion
 Supported File Format --> .wav
 
 --Packages needed--
-->streamlit
-->pycryptdome
-->python
-->seccure
+    ->streamlit
+    ->pycryptdome
+    ->python
+    ->seccure
 
 
 To use the Audio Encryption and Decryption just download the executable ‘GUI.py’from the repository inside the "GUI" folder 
