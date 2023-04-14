@@ -8,6 +8,8 @@ Supported File Format --> .wav
 ->streamlit
 ->pycryptdome
 ->python
+->seccure
+
 
 To use the Audio Encryption and Decryption just download the executable ‘GUI.py’from the repository inside the "GUI" folder 
 
